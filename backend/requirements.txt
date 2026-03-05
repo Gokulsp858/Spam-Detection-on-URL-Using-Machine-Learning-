@@ -4,9 +4,6 @@ numpy==1.26.4
 scikit-learn==1.5.2
 joblib==1.4.2
 requests==2.31.0
-<<<<<<< HEAD
 skops==0.10.0
 gunicorn
-=======
 skops==0.10.0
->>>>>>> f5f81f57201311a91f37f92508f01cef5883c84a
