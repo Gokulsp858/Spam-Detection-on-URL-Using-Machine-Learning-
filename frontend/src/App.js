@@ -4,7 +4,7 @@ import './App.css';
 
 
 // Use env-configured API URL with a sensible default
-const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:5000';
+const API_URL = process.env.REACT_APP_API_URL || 'https://spam-url-backend.onrender.com';
 const LOGIN_ACCENTS = [
   { primary: '#0ea5e9', secondary: '#22d3ee', glow: 'rgba(14,165,233,0.45)' },
   { primary: '#a855f7', secondary: '#ec4899', glow: 'rgba(232,121,249,0.45)' },
